@@ -3,7 +3,7 @@ def mvnHome
 node {
     mvnHome = tool 'ADOP Maven'
     
-    stage 'Clone Git Repso'
+    stage 'Clone Git Repo'
         def workspace = pwd()
              sh """
                 git config --global http.postBuffer 524288000
