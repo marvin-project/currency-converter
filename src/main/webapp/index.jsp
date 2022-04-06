@@ -16,7 +16,7 @@
        <div class="input-group">
  	<span class="input-group-addon">Convert From :</span>
     <select ng-model="currencyIndex"  id="convertFrom" class="form-control col-md-8">
-        <option value="PHP">Philippine Pesos (PHP)</option>
+        <option value="PHP">Philippine Pesossssssssssssssssssssssssssssssssssssssss (PHP)</option>
         <option value="JPY">Japanese Yen (JPY)</option>
         <option value="USD">US Dollar (USD)</option>
         <option value="INR">Indian Rupee (INR)</option>
